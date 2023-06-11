@@ -138,7 +138,7 @@ It holds spool
 Spool :
 a spool refers to a roll of filament that is used as the printing material for the 3D printer.
 
-PLAYING WITH AXIS:
+PLAYING WITH AXES:
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
